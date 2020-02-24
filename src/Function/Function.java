@@ -1,12 +1,12 @@
-package functions;
+package Function;
 
-import linkedList.LinkedList;
-import person.Person;
+import LinkedList.LinkedList;
+import Person.Person;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Functions {
+public class Function {
     private Scanner scanner = new Scanner(System.in);
 
     public void addContact(LinkedList linkedList) {

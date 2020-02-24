@@ -1,6 +1,6 @@
-package linkedList;
+package LinkedList;
 
-import person.Person;
+import Person.Person;
 
 public class LinkedList {
     Person person;

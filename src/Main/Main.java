@@ -1,7 +1,7 @@
 package Main;
 
-import functions.Functions;
-import linkedList.LinkedList;
+import Function.Function;
+import LinkedList.LinkedList;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         LinkedList linkedList = new LinkedList();
-        Functions functions = new Functions();
+        Function functions = new Function();
 
         System.out.println("Hey there !! My name is Tushar Saxena " +
                 ".. Here what can I do for you--->>");
